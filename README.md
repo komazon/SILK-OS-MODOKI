@@ -19,33 +19,38 @@ TurboWarpで動くOSもどき！CLIで操作も簡単！
 #### ls  
 ---
 ##### 使用例:  
-ls /  
+`ls /  
 
+#### kuminote  
+---
+#### 使用例:  
+`kuminote cheat_sheet.txt  
+※カレントディレクトリにあるファイルしか読み込めません  
+※保存は↑+S  
 
 #### cd  
 ---
 ##### 使用例:  
-cd user/  
+`cd user/  
 
 
 #### mkdir  
 ---
 ##### 使用例:  
-mkdir test_folder  
+`mkdir test_folder  
 ※これはCurrentに作成されます  
 
 
 #### touch  
 ---
 ##### 使用例:  
-touch test.txt  
+`touch test.txt  
 ※これはCurrentに作成されます  
-
 
 #### echo  
 ---
 ##### 使用例:  
-echo ジーク・ジオン！  
+`echo ジーク・ジオン！  
 #### newuser
 ---
 引数なし。  
@@ -54,7 +59,7 @@ echo ジーク・ジオン！
 #### rm
 ---
 ##### 使用例:  
-rm test_folder/  
+`rm test_folder/  
 
 
 #### about
