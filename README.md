@@ -1,5 +1,6 @@
 # SILK OS
-Scratchで動くOSもどき！CLIで操作も簡単！
+Scratchで動くOSもどき！CLIで操作も簡単！  
+[旧バージョン(試用用とりあえずバージョン)](https://scratch.mit.edu/projects/1351156060/)
 
 ## **開発理由**  
 久しぶりに何か作りたかったから。  
@@ -17,33 +18,33 @@ Scratchで動くOSもどき！CLIで操作も簡単！
 
 #### ls  
 ---
-##### 使用方法:  
+##### 使用例:  
 ls /  
 
 
 #### cd  
 ---
-##### 使用方法:  
+##### 使用例:  
 cd user/  
 
 
 #### mkdir  
 ---
-##### 使用方法:  
+##### 使用例:  
 mkdir test_folder  
 ※これはCurrentに作成されます  
 
 
 #### touch  
 ---
-##### 使用方法:  
+##### 使用例:  
 touch test.txt  
 ※これはCurrentに作成されます  
 
 
 #### echo  
 ---
-##### 使用方法:  
+##### 使用例:  
 echo ジーク・ジオン！  
 #### newuser
 ---
@@ -52,7 +53,7 @@ echo ジーク・ジオン！
 
 #### rm
 ---
-##### 使用方法:  
+##### 使用例:  
 rm test_folder/  
 
 
