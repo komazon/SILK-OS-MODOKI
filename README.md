@@ -16,7 +16,7 @@ ls /
 #### cd  
 ---
 ##### 使用方法:  
-cd /  
+cd user/  
 
 
 #### mkdir  
@@ -45,7 +45,7 @@ echo ジーク・ジオン！
 #### rm
 ---
 ##### 使用方法:  
-rm /test_folder  
+rm test_folder/  
 
 
 #### about
