@@ -10,49 +10,45 @@ TurboWarpで動くOSもどき！CLIで操作も簡単！
 
 ## **特徴** 
 引数間などの空白にとても厳格(手抜k
-## **仕様書**  
-  
-  
-### 現在使用可能なコマンド一覧:  
+## **使用できるコマンド**  
 
-
-#### ls  
+### ls  
 ##### 使用例:  
 `ls /`  
 
-#### kuminote  
+### kuminote  
 ##### 使用例:  
 `kuminote cheat_sheet.txt`  
 ※カレントディレクトリにあるファイルしか読み込めません  
 ※保存は↑+S  
 
-#### cd  
+### cd  
 ##### 使用例:  
 `cd user/`  
 
 
-#### mkdir  
+### mkdir  
 ##### 使用例:  
 `mkdir test_folder`  
 ※これはCurrentに作成されます  
 
 
-#### touch  
+### touch  
 ##### 使用例:  
 `touch test.txt`  
 ※これはCurrentに作成されます  
 
-#### echo  
+### echo  
 ##### 使用例:  
 `echo ジーク・ジオン！`  
-#### newuser
+### newuser
 引数なし。(対話型です)  
 
 
-#### rm
+### rm
 ##### 使用例:  
 `rm test_folder/`  
 
 
-#### about
+### about
 ##### 引数なし。ディストリビューションの詳細が出ます。
