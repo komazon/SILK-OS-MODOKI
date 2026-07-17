@@ -21,7 +21,7 @@ TurboWarpで動くOSもどき！CLIで操作も簡単！
 `ls /`  
 
 #### kuminote  
-#### 使用例:  
+##### 使用例:  
 `kuminote cheat_sheet.txt`  
 ※カレントディレクトリにあるファイルしか読み込めません  
 ※保存は↑+S  
