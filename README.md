@@ -1,8 +1,8 @@
 # SILK-OS-MODOKI
 Scratchで動くOSもどき！CLIで操作も簡単！
 
-#仕様書
----
+#仕様書  
+  
 <br>
 ### 現在使用可能なコマンド一覧:  
 
@@ -37,7 +37,8 @@ touch test.txt
 ---
 ##### 使用方法:  
 echo ジーク・ジオン！  
-*newuser
+#### newuser
+---
 引数なし。  
 
 
