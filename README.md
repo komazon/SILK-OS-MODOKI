@@ -1,7 +1,7 @@
 # SILK-OS-MODOKI
 Scratchで動くOSもどき！CLIで操作も簡単！
 
-#仕様書  
+## 仕様書  
   
 <br>
 ### 現在使用可能なコマンド一覧:  
