@@ -1,5 +1,5 @@
 # SILK OS
-TurboWarpで動くOSもどき！CLIで操作も簡単！  
+Scratchで動くOSもどき！CLIで操作も簡単！  
 
 ## **開発理由**  
 久しぶりに何か作りたかったから。  
