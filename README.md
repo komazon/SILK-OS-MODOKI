@@ -18,6 +18,7 @@ TurboWarpで動くOSもどき！CLIで操作も簡単！
 ### kuminote  
 ##### 使用例:  
 `kuminote cheat_sheet.txt`  
+※カレントディレクトリにあるファイルしか読み込めません  
 ※保存は↑+S  
 
 ### cd  
