@@ -1,6 +1,5 @@
 # SILK OS
 TurboWarpで動くOSもどき！CLIで操作も簡単！  
-[旧バージョン(Scratch上で試用するためのとりあえずバージョン)](https://scratch.mit.edu/projects/1351156060/)
 
 ## **開発理由**  
 久しぶりに何か作りたかったから。  
