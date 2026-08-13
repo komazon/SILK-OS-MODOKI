@@ -1,4 +1,4 @@
-# SILK OS - Silk OS is not Linux
+# SILK OS
 Scratchで動くOSもどき！CLIで操作も簡単！  
 
 ## **開発理由**  
