@@ -1,6 +1,6 @@
 # SILK OS
 Scratchで動くOSもどき！  
-
+https://scratch.mit.edu/projects/1395218024/
 ## **開発理由**  
 久しぶりに何か作りたかったから。  
 
@@ -42,7 +42,7 @@ Scratchで動くOSもどき！
 
 ### echo  
 ##### 使用例:  
-`echo ジーク・ジオン！`  
+`echo sieg_zeon`  
 ### newuser
 引数なし。(対話型です)  
 
@@ -50,15 +50,6 @@ Scratchで動くOSもどき！
 ### rm
 ##### 使用例:  
 `rm test_folder/`  
-
-### todrun
-##### 使用例:
-`todrun test_kitigai.txt`
-##### todファイルフォーマット:
-`コマンド名("引数1")("引数2")`  
-※入っているコマンドは使えます  
-※カレントディレクトリ以外も読み込めたと思います
-
 
 ### about
 ##### 引数なし。ディストリビューションの詳細が出ます。
