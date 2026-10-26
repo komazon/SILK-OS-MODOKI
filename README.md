@@ -51,6 +51,9 @@ https://scratch.mit.edu/projects/1395218024/
 ##### 使用例:  
 `rm test_folder/`  
 
+### shutdown
+##### 引数なし。停止します。それだけ  
+  
 ### about
 ##### 引数なし。ディストリビューションの詳細が出ます。
 
@@ -68,5 +71,3 @@ https://scratch.mit.edu/projects/1395218024/
 `path.txt` ここにPATHを記述します  
 `user/default/` DEFAULTユーザーのディレクトリ  
 `etc/` 役目はないです
-### shutdown
-##### 引数なし。停止します。それだけやで
